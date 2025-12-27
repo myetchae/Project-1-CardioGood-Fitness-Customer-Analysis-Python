@@ -88,7 +88,7 @@ cardiogood-fitness-analysis/
 - Build a Power BI or Tableau dashboard
 - Customer segmentation
 
-## 📬 Contact
+## Author
 
-Made by Myetchae
+Myetchae | Data Enablement Coach
 https://www.linkedin.com/in/myetchae/
