@@ -1,4 +1,4 @@
-# 🏃 CardioGood Fitness Customer Analysis
+# 🏃 CardioGood Fitness Customer Analysis (Python)
 
 This project explores customer profiles and usage patterns for different treadmill products offered by CardioGood Fitness. The analysis uses descriptive statistics to uncover relationships between demographics, product type, fitness level, and exercise habits.
 
@@ -82,7 +82,7 @@ cardiogood-fitness-analysis/
 
 ---
 
-## 🚀 Next Steps
+## 🚀 Next Improvements
 
 - Expand to predictive modelling (e.g. product recommendation)
 - Build a Power BI or Tableau dashboard
